@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrearArticulo</string>
+    <string name="titulo_articulo">Titulo Articulo</string>
+    <string name="resumen">Resumen</string>
+    <string name="texto_de_articulo">texto de articulo</string>
+    <string name="crear_articulo">Crear Articulo</string>
+</resources>
